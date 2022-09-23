@@ -1,4 +1,4 @@
-package Week2.day6.LearnPolymorphism;
+package Week2.day6.AreaFinder;
 
 public class Area {
 

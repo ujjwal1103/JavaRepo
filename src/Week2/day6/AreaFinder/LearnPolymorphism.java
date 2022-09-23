@@ -1,9 +1,4 @@
-package Week2.day6.LearnPolymorphism;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Stack;
+package Week2.day6.AreaFinder;
 
 public class LearnPolymorphism {
     public static void main(String[] args) {

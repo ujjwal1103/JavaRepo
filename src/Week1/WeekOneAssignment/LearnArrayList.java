@@ -67,8 +67,10 @@ public class LearnArrayList {
 
         System.out.println(colors);
 
+        Collections.swap(colors,0,3);
 
-        colors = (ArrayList)subColors.clone();
+        System.out.println(colors);
+        colors = (ArrayList<String>) subColors.clone();
 
         System.out.println(colors);
 
